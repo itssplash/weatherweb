@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weatherweb/static/css/main.323e5292.chunk.css",
+    "main.js": "/weatherweb/static/js/main.a4cf0b54.chunk.js",
+    "main.js.map": "/weatherweb/static/js/main.a4cf0b54.chunk.js.map",
+    "runtime-main.js": "/weatherweb/static/js/runtime-main.1404b1e8.js",
+    "runtime-main.js.map": "/weatherweb/static/js/runtime-main.1404b1e8.js.map",
+    "static/js/2.ad3b9c4a.chunk.js": "/weatherweb/static/js/2.ad3b9c4a.chunk.js",
+    "static/js/2.ad3b9c4a.chunk.js.map": "/weatherweb/static/js/2.ad3b9c4a.chunk.js.map",
+    "index.html": "/weatherweb/index.html",
+    "precache-manifest.67369e0e0c9cd2d5c91234f562f73201.js": "/weatherweb/precache-manifest.67369e0e0c9cd2d5c91234f562f73201.js",
+    "service-worker.js": "/weatherweb/service-worker.js",
+    "static/css/main.323e5292.chunk.css.map": "/weatherweb/static/css/main.323e5292.chunk.css.map",
+    "static/js/2.ad3b9c4a.chunk.js.LICENSE": "/weatherweb/static/js/2.ad3b9c4a.chunk.js.LICENSE",
+    "static/media/index.css": "/weatherweb/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1404b1e8.js",
+    "static/js/2.ad3b9c4a.chunk.js",
+    "static/css/main.323e5292.chunk.css",
+    "static/js/main.a4cf0b54.chunk.js"
+  ]
+}
